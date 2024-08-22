@@ -1,8 +1,8 @@
-<img src="https://github.com/user-attachments/assets/4f401a1e-90e6-4676-bb3d-f6e60e30c18d" width="100%">
+<img src="https://github.com/user-attachments/assets/186eb842-c073-4e33-ad58-2eed7c176552" width="100%">
 
-# O que é Code Wariors?
+# O que é Code Warriors?
 
-Code Wariors é uma comunidade de desenvolvedores cujo propósito é compartilhar conhecimento nas principais áreas de desenvolvimento. Nosso objetivo é criar projetos open-source e adquirir experiências práticas e valiosas em equipe, promovendo crescimento técnico e colaboração entre os membros.
+Code Warriors é uma comunidade de desenvolvedores cujo propósito é compartilhar conhecimento nas principais áreas de desenvolvimento. Nosso objetivo é criar projetos open-source e adquirir experiências práticas e valiosas em equipe, promovendo crescimento técnico e colaboração entre os membros.
 
 # Como Participar?
 
