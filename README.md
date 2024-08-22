@@ -20,4 +20,11 @@ Quer registrar ou participar de um projeto com a gente? [-> Confere esse guia.](
 
 Lista com os projetos open source ativos na comunidade:
 
-- Opus;
+<hr/>
+
+## Opus  
+**Repositório**:  [Opus](https://github.com/KelySoare5/opus)  
+**Responsável**: [Ruan Victor](https://www.linkedin.com/in/ruanvictordev/)  
+**Descrição do projeto**: Aplicação Web de Empregos para Pedro II, desenvolvido com a stack MERN (MongoDB, Express.js, React e Node.js) e com a finalidade de conectar cidadãos de Pedro II - PI a novas oportunidades de trabalho. 
+
+<hr/>
