@@ -8,7 +8,7 @@ Code Warriors é uma comunidade de desenvolvedores cujo propósito é compartilh
 
 Atualmente estamos ativos no discord, acesse o link abaixo e entre na comunidade:
 
-<a href="https://discord.gg/X9F6bMzY" target="_blank">
+<a href="https://forms.gle/3XtxtbziepxwPNiW7" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" width="7%" alt="Discord Logo">
 </a>
 
