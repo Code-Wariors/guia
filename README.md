@@ -12,9 +12,9 @@ Atualmente estamos ativos no discord, acesse o link abaixo e entre na comunidade
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" width="7%" alt="Discord Logo">
 </a>
 
-# Como Registrar um Projeto?
+# Dúvidas Sobre como Funciona a Comunidade?
 
-Quer registrar ou participar de um projeto com a gente? [-> Confere esse guia.](https://github.com/Code-Wariors/projects/wiki)
+Ainda não sabe algo sobre o discord, projetos e eventos dentro da comunidade? [-> Confere esse guia.](https://github.com/Code-Wariors/projects/wiki)
 
 # Projetos Ativos
 
