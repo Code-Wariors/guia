@@ -14,7 +14,7 @@ Atualmente estamos ativos no discord, acesse o link abaixo e entre na comunidade
 
 # Dúvidas Sobre como Funciona a Comunidade?
 
-Ainda não sabe algo sobre o discord, projetos e eventos dentro da comunidade? [-> Confere esse guia.](https://github.com/Code-Wariors/projects/wiki)
+Ainda não sabe algo sobre o discord, projetos e eventos dentro da comunidade? [-> Confere esse guia.](https://github.com/Code-Warriors-Devs/projects/wiki)
 
 # Projetos Ativos
 
