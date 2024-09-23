@@ -2,7 +2,7 @@
 
 # O que é Code Warriors?
 
-Code Warriors é uma comunidade de desenvolvedores cujo propósito é compartilhar conhecimento nas principais áreas de desenvolvimento. Nosso objetivo é compartilhar conhecimento através de eventos, projetos open-source para conquistar experiências práticas e valiosas em equipe, promovendo crescimento técnico e colaboração entre os membros.
+Code Warriors é uma comunidade de desenvolvedores voltada para o compartilhamento de conhecimento nas principais áreas de tecnologia. Nosso objetivo é promover o crescimento técnico e a colaboração por meio de eventos e projetos open-source, proporcionando experiências práticas e valiosas em equipe.
 
 # Como Participar?
 
